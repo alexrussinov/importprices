@@ -105,7 +105,7 @@ if ($step == 3 && $datatoimport)
 /***************************************************
  * PAGE
 *
-* Put here all code to build page
+* Put here all code to build pages
 ****************************************************/
 
 llxHeader('','MyPageName','');
